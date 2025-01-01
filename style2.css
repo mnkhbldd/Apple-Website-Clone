@@ -45,6 +45,10 @@
   justify-content: center;
 }
 
+.logo {
+  padding-left: 10px;
+}
+
 .header img {
   width: 30px;
 }
